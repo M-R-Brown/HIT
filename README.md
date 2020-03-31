@@ -1,5 +1,5 @@
 # HIT
-A single player game developed using Python.
+A single player game developed using Python. :video_game:
 <br>
 ## **About**
 ```
