@@ -1,7 +1,7 @@
 # HIT
 A single player game developed using Python. :video_game:
-<br>
-<img src="https://github.com/M-R-Brown/HIT/blob/master/Hit.gif" width="40" height="40" />
+<br><br>
+<img src="https://github.com/M-R-Brown/HIT/blob/master/Hit.gif" />
 <br>
 ## **About**
 ```
